@@ -1,1 +1,1 @@
-WeSplitApp helps friends to split bills easily.
+Helps friends to split bills easily.
